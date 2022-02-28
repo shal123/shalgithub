@@ -11,6 +11,7 @@ class Main {
     sLL.insertInLinkedList(9, 0);
     sLL.traverseSinglyLinkedList();
     sLL.deleteSLL();
+    
     sLL.traverseSinglyLinkedList();
 
   }
