@@ -1,0 +1,16 @@
+
+’squid:S39738"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ž…ÀÐúÿÿÿÿ8¬öóÛô/H3RCRITICALZ
+CODE_SMELL
+p
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ïÇ²Ùüÿÿÿÿ8¬öóÛô/H4RMAJORZ
+CODE_SMELL
+›"squid:ClassVariableVisibilityCheck"PMake head a static final constant or non-public and provide accessors if needed.(²åŽóÿÿÿÿÿH1RMINORZVULNERABILITY
+¿squid:S2681:"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ò¥ÀÐúÿÿÿÿ8¬öóÛô/H6RMAJORZ
+CODE_SMELL
+›"squid:ClassVariableVisibilityCheck"PMake tail a static final constant or non-public and provide accessors if needed.(ô¹°ùýÿÿÿÿH2RMINORZVULNERABILITY
+j
+squid:S106="9Replace this use of System.out or System.err by a logger.(°•Þ8ä ”Üô/H<RMAJORZ
+CODE_SMELL
+j
+squid:S1069"9Replace this use of System.out or System.err by a logger.(˜¯‹h8¬öóÛô/H5RMAJORZ
+CODE_SMELL
